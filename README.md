@@ -130,3 +130,5 @@ python tools/validate_spec.py
 ## License
 
 [CC0 1.0 Universal](LICENSE)
+
+Origin: Structure Lock (contracts-v1.0) was frozen in the operational repo `wizyig/gbox` at `823515c81fc234f36e2e372e0a00d140b901714e` before extraction to this canonical repository.
